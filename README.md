@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+If you're looking for me professionally, see [my LinkedIn profile](https://linkedin.com/in/bhart).
+
+For personal stuff, see:
+- [bbhart.com](https://www.bbhart.com) (a Jekyll site served by GitHub Pages) where I mostly write about travel and tech.
+- [me on threads](https://www.threads.net/@bbhart_insta)
+- [Random things on YouTube](https://www.youtube.com/@BrianHart), again mostly travels, tech, and video games. Keep an eye
+  out for the occassional 360 video on there, too.
+- [Videos on Vimeo](https://vimeo.com/bbhart), likely some duplication with YouTube but I tend to post more videos here
+
+
 <!--
 **bbhart/bbhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
